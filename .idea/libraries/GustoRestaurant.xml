@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GustoRestaurant">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/GustoRestaurant.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
