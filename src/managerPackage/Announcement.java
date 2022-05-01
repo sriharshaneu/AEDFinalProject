@@ -10,7 +10,7 @@ import menuItems.MenuItem;
 
 /**
  *
- * @author sreyasborra
+ * @author sriha
  */
 public class Announcement
 {
