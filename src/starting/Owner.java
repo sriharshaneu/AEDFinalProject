@@ -23,7 +23,7 @@ import starting.RoleSignUpForm;
 
 /**
  *
- * @author sriha
+ * @author sreyasborra
  */
 public class Owner extends User{
     private String username;
