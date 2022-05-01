@@ -12,6 +12,8 @@ import menuItems.MenuItem;
  *
  * @author sriha
  */
+
+//announcement model
 public class Announcement
 {
     String managerName;
