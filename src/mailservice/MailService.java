@@ -72,6 +72,7 @@ properties.put("mail.smtp.socketFactory.class",
 		}
 	}
 
+//prepareMessage for sending mail using Session argument
 	private static Message prepareMessage(Session session, String recipient, String text) {
 		try {
 			Message message = new MimeMessage(session);
