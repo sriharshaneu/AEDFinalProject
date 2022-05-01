@@ -6,7 +6,7 @@ package starting;
 
 /**
  *
- * @author sriha
+ * @author sreyasborra
  */
 public class DineIn {
 	private int dinein_order_id;
