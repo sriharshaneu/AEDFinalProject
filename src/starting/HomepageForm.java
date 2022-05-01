@@ -80,7 +80,7 @@ setContentPane((Container) component);
         lblHomeImage = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Gusto Restaurant");
+        setTitle("KhakeJao Restaurant");
         setBackground(new java.awt.Color(0, 51, 51));
         setIconImages(null);
         setLocation(new java.awt.Point(100, 100));
