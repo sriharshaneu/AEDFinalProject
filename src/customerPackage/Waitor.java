@@ -86,6 +86,7 @@ public class Waitor extends User {
 		super(name, username, mobilePhone, password);
 		this.id = id;
 		this.address = address;
+		System.out.println("Test Logging1");
 	}
 
 	public void placeOrders(Order order) {
