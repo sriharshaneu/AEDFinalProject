@@ -22,7 +22,7 @@ public class MyConnection
         try
         {
             Class.forName("com.mysql.cj.jdbc.Driver");
-            con = DriverManager.getConnection("jdbc:mysql://localhost/menu_item?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC", "root", "root@123");
+            con = DriverManager.getConnection("jdbc:mysql://localhost/menu_item?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC", "mindmajix_admin", "Mindmajix_Admin@123");
         } catch (SQLException | ClassNotFoundException e)
         {
             System.out.println(e.getMessage());
