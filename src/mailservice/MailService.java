@@ -19,6 +19,8 @@ import javax.mail.internet.MimeMessage;
  *
  * @author sriha
  */
+
+//service for sending mails using javax.mail api
 public class MailService {
 
 	final static String gmailAccountEmail = "sriharshaperi@gmail.com";
