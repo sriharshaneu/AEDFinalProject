@@ -11,7 +11,7 @@ import managerPackage.Manager;
 
 /**
  *
- * @author sriha
+ * @author sreyasborra
  */
 public class LoginForm extends javax.swing.JFrame
 {
