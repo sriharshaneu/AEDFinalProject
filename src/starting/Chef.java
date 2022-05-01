@@ -17,7 +17,7 @@ import managerPackage.ManagerWelcomeForm;
  */
 /**
  *
- * @author sriha
+ * @author sreyasborra
  */
 public class Chef extends User {
 
