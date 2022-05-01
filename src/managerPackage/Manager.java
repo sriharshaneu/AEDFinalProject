@@ -29,6 +29,8 @@ import starting.RoleSignUpForm;
  *
  * @author sriha
  */
+
+//manager model
 public class Manager extends User {
 
 	private String username;
@@ -175,6 +177,7 @@ public class Manager extends User {
 
 	}
 
+//view inventory item
 	public void viewInventoryItem(String categoryName) {
 		String itemName;
 		try {
@@ -248,6 +251,8 @@ public class Manager extends User {
 		}
 	}
 
+
+//addannouncement
 	public void addAnnouncement(Announcement a) {
 		HomepageForm.offers.add(a);
 		String items = convertItemstoString(a.menuItems);
