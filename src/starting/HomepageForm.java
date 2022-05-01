@@ -23,7 +23,7 @@ import menuItems.MainMenu;
 
 /**
  *
- * @author sriha
+ * @author sreyasborra
  */
 public class HomepageForm extends javax.swing.JFrame 
 {
