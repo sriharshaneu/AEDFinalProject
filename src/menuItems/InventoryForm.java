@@ -19,7 +19,7 @@ import starting.HomepageForm;
 
 /**
  *
- * @author sreyasborra
+ * @author sriha
  */
 public class InventoryForm extends javax.swing.JFrame
 {

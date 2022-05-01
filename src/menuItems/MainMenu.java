@@ -16,7 +16,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author sreyasborra
+ * @author sriha
  */
 public class MainMenu
 {

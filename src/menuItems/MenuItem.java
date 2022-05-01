@@ -7,7 +7,7 @@ package menuItems;
 
 /**
  *
- * @author prathik reddy arasu
+ * @author sriha
  */
 public class MenuItem implements Comparable<MenuItem>
 {
