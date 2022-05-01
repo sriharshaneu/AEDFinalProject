@@ -12,7 +12,7 @@ import javax.swing.SwingUtilities;
 
 /**
  *
- * @author prathik reddy arasu
+ * @author sreyasborra
  */
 public class RolesSignUpWindow extends javax.swing.JPanel {
 
