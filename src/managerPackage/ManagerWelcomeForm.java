@@ -15,7 +15,7 @@ import starting.HomepageForm;
 
 /**
  *
- * @author prathik reddy arasu
+ * @author sriha
  */
 public class ManagerWelcomeForm extends javax.swing.JFrame
 {

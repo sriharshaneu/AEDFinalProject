@@ -13,7 +13,7 @@ import starting.HomepageForm;
 
 /**
  *
- * @author prathik reddy arasu
+ * @author sriha
  */
 public class WelcomeManager extends javax.swing.JPanel {
 

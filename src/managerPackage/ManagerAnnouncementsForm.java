@@ -23,7 +23,7 @@ import starting.HomepageForm;
 
 /**
  *
- * @author sreyasborra
+ * @author sriha
  */
 public class ManagerAnnouncementsForm extends javax.swing.JFrame
 {
